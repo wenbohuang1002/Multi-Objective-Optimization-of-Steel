@@ -2,4 +2,4 @@
 
 Code for paper 'Multi-Objective Optimization of Corrosion Resistance, Strength, Ductility Properties of Weathering Steel Utilizing Interpretable Attention-Based Deep Learning Model'
 
-*PS: This repo will not be updated because Wenbo Huang's terrible state caused by Bingxiao Shi. What a pity!*
+*PS: This repo will not be updated because Wenbo Huang's terrible state. What a pity!*
