@@ -6,4 +6,4 @@ Code for paper 'Multi-Objective Optimization of Corrosion Resistance, Strength, 
 
 *PS: 这篇论文中的错误，特别是多头注意力部分图错误与我无关，是第一作者在我不知情的情况下进行的下修改。*
 
-另外，这个库最近会有个大新闻，可以期待一下。
+另外，这个库的Release里有个大新闻，我希望你永远不知道如何打开它。
