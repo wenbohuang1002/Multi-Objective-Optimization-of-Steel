@@ -11,9 +11,9 @@ This repository provides the official implementation of the paper:
 
 The repository includes:
 
-- feature_select.py for extracting features from xlsx file, using attention model
-- feature_sort_attention.py for sorting features
-- mlp_predition_all.py for predicting the features that satisfy the first author's requirements
+- `feature_select.py` for extracting features from xlsx file, using attention model
+- `feature_sort_attention.py` for sorting features
+- `mlp_predition_all.py` for predicting the features that satisfy the first author's requirements
 
 This first author selected two components to be used in steelmaking and conducted a series of experiments.
 
