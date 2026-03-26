@@ -1,6 +1,6 @@
 # Multi-Objective-Optimization-of-Steel
 
-[**English README**](README.md) | [**中文版 README**](readme_zh.md)
+[**English README**](README.md) | [**日本語版 README**](readme_jp.md) 
 
 ## 项目概述
 
